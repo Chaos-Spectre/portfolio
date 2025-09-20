@@ -5,13 +5,9 @@ sections:
   - type: TextSection
     title: VIDEO
     subtitle: 'Editing, Videography, Color-Grading, Directing'
-    text: >+
-      `<iframe width="560" height="315"
-      src="https://www.youtube.com/embed/[`https\://youtu.be/wLbidRu2-Qs`]"
-      frameborder="0" allowfullscreen></iframe>`
-
-
-
+    text: >
+      `<iframe width="560" height="315" src="https://www.youtube.com/embed/[
+      https://youtu.be/wLbidRu2-Qs]" frameborder="0" allowfullscreen></iframe>`
     colors: colors-f
     variant: variant-a
     elementId: ''
