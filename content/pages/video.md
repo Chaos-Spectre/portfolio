@@ -5,8 +5,7 @@ sections:
   - type: TextSection
     title: VIDEO
     subtitle: 'Editing, Videography, Color-Grading, Directing'
-    text: |
-      ``
+    text: ''
     colors: colors-f
     variant: variant-a
     elementId: ''
