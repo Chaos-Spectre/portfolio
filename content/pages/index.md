@@ -5,7 +5,7 @@ colors: colors-e
 backgroundImage:
   type: BackgroundImage
   url: /images/featured-Image2.jpg
-  backgroundSize: contain
+  backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
