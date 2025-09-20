@@ -4,7 +4,7 @@ title: Home
 colors: colors-e
 backgroundImage:
   type: BackgroundImage
-  url: /images/featured-Image2.jpg
+  url: /images/AdobeStock_1194784474_2_75.jpeg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: repeat
