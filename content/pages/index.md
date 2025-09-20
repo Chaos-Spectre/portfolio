@@ -7,7 +7,7 @@ backgroundImage:
   url: /images/AdobeStock_1194784474_2_75.jpeg
   backgroundSize: cover
   backgroundPosition: center
-  backgroundRepeat: repeat
+  backgroundRepeat: no-repeat
   opacity: 75
 sections:
   - elementId: ''
