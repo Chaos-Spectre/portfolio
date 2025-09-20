@@ -15,9 +15,14 @@ sections:
     backgroundSize: full
     title: Wren Gamez
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I have been in the creative industry since I was sixteen years old, and in
+      love with it for even longer. To me, this work is my life, and I want to
+      be able to do it all. I pride myself in truly understanding my clients,
+      and being able to adapt to their needs and aesthetic.As you can see, I
+      have collected quite an array of skills by this point, so I am using this
+      website to organize them into separate portfolios. If you have any
+      inquiries or curiosities, then please do not hesitate to reach out to me.
+      I am sure that I would love to hear about your project.
     styles:
       self:
         height: auto
