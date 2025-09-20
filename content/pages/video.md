@@ -4,7 +4,7 @@ title: VIDEO
 sections:
   - type: TextSection
     title: VIDEO
-    subtitle: The section subtitle
+    subtitle: 'Editing, Videography, Color-Grading, Directing'
     text: |
       Start adding sectionsagrjsjjrs
     colors: colors-f
