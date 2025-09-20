@@ -3,7 +3,7 @@ type: PageLayout
 title: VIDEO
 sections:
   - type: TextSection
-    title: This in an empty page
+    title: VIDEO
     subtitle: The section subtitle
     text: |
       Start adding sectionsagrjsjjrs
