@@ -20,29 +20,6 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-  - type: TextSection
-    title: The Section Title
-    text: >+
-      ```
-
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/[
-      https://youtu.be/wLbidRu2-Qs]" frameborder="0" allowfullscreen></iframe>
-
-      ```
-
-    colors: colors-f
-    variant: variant-a
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        textAlign: left
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
